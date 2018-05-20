@@ -2,7 +2,7 @@ require 'spec_helper'
 require 'capybara/rspec'
 
 Capybara.register_driver :selenium do |app|
-  Selenium::WebDriver::Chrome.driver_path = "/Users/hansel.tritama/Downloads/chromedriver"
+  Selenium::WebDriver::Chrome.driver_path = "/Users/hansel.tritama/Downloads/chromedriver_238"
   Capybara::Selenium::Driver.new(app, :browser => :chrome)
 end
 
