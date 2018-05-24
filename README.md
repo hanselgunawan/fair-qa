@@ -20,7 +20,7 @@
  * [Selenium Webdriver](https://www.seleniumhq.org/projects/webdriver)
 
 ## Test Cases
-Test cases can be found in `/test_capybara/spec/requests/line_of_credits_spec.rb`
+Test cases can be found in [/test_capybara/spec/requests/line_of_credits_spec.rb](https://github.com/hanselgunawan/fair-qa/blob/master/test_capybara/spec/requests/line_of_credit_spec.rb)
 
 ## How To Run The Automation
 
