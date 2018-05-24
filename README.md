@@ -1,4 +1,4 @@
-# Line of Credits (Fair QA Challenge)
+# Line of Credits
 
 
 **Line of Credits** is an application to help the users to monitor their draw and payment activities / transaction history. Link to the application: [http://credit-test.herokuapp.com](http://credit-test.herokuapp.com/).
