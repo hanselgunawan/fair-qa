@@ -1,0 +1,8 @@
+[2018-05-22 19:45:45] INFO: [sitespeedio] Versions OS: linux 4.9.60-linuxkit-aufs nodejs: v8.9.4 sitespeed.io: 6.5.4 browsertime: 2.5.0 coach: 1.3.0
+[2018-05-22 19:45:45] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing http://credit-test.herokuapp.com/line_of_credits 3 time(s)
+[2018-05-22 19:45:45] INFO: [root] Testing url http://credit-test.herokuapp.com/line_of_credits run 1
+[2018-05-22 19:46:00] INFO: [root] Testing url http://credit-test.herokuapp.com/line_of_credits run 2
+[2018-05-22 19:46:10] INFO: [root] Testing url http://credit-test.herokuapp.com/line_of_credits run 3
+[2018-05-22 19:46:20] INFO: [root] 5 requests, 234.24 kb, backEndTime: 765ms (±229.86ms), firstPaint: 940ms (±217.53ms), firstVisualChange: 989ms (±216.25ms), DOMContentLoaded: 1.20s (±249.41ms), Load: 1.22s (±248.70ms), speedIndex: 989 (±216.37), visualComplete85: 989ms (±216.25ms), lastVisualChange: 1.11s (±232.59ms), rumSpeedIndex: 941 (±217.43) (3 runs)
+[2018-05-22 19:46:22] INFO: [sitespeedio.plugin.html] HTML stored in /sitespeed.io/sitespeed-result/credit-test.herokuapp.com/2018-05-22-19-45-45
+[2018-05-22 19:46:22] INFO: [sitespeedio] Finished analysing http://credit-test.herokuapp.com/line_of_credits
