@@ -40,7 +40,7 @@ Test cases can be found in `/test_capybara/spec/requests/line_of_credits_spec.rb
 ![](https://imgur.com/Im90nlO.png)
 
 ## Bugs and Improvements
-Here's the [Trello](https://trello.com/) link for the bugs and improvements: 
+Here's the Trello link for the bugs and improvements: 
 
 [https://trello.com/b/Z4Dvhl77/fair-project-board](https://trello.com/b/Z4Dvhl77/fair-project-board)
 
