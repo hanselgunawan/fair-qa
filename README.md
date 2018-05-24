@@ -36,6 +36,11 @@
 ![](https://imgur.com/P4OCXLe.png)
 ![](https://imgur.com/y2JO3hu.png)
 
+## Bugs and Improvements
+Here's the [Trello](https://trello.com/) link for the bugs and improvements: 
+
+[https://trello.com/b/Z4Dvhl77/fair-project-board](https://trello.com/b/Z4Dvhl77/fair-project-board)
+
 ## Application Performance by Sitespeed.io
 [Sitespeed.io](https://www.sitespeed.io) is the complete toolbox to test the web performance of your web site.
 ### How To Use Sitespeed.io?
@@ -47,8 +52,3 @@ Just simply execute the following command on your terminal:
 ![](https://imgur.com/IPIXh8F.png)
 ![](https://imgur.com/mhdqTeW.png)
 ![](https://imgur.com/aN4gswp.png)
-
-## Bugs and Improvements
-Here's the [Trello](https://trello.com/) link for the bugs and improvements: 
-
-[https://trello.com/b/Z4Dvhl77/fair-project-board](https://trello.com/b/Z4Dvhl77/fair-project-board)
