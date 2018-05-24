@@ -19,6 +19,9 @@
  * [Capybara](https://github.com/teamcapybara/capybara)
  * [Selenium Webdriver](https://www.seleniumhq.org/projects/webdriver)
 
+## Test Cases
+Test cases can be found in `/test_capybara/spec/requests/line_of_credits_spec.rb`
+
 ## How To Run The Automation
 
 1. `git clone` this project
