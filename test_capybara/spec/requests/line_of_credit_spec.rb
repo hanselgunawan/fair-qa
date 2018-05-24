@@ -16,7 +16,7 @@ RSpec.describe "Credit Line", type: :request do
   end
 
   describe "add a new credit line with an alphabet" do
-    it "displays 'not a number' error message", :js => true do
+    it "displays 'not a number' error messages", :js => true do
       @alphabet_array = [*('a'..'z')]
       visit('http://credit-test.herokuapp.com')
       click_link('New Line of credit')
@@ -35,7 +35,7 @@ RSpec.describe "Credit Line", type: :request do
   end
 
   describe "add a new credit line with a blank value" do
-    it "displays 'can't be blank' error message", :js => true do
+    it "displays 'can't be blank' error messages", :js => true do
       @alphabet_array = [*('a'..'z')]
       visit('http://credit-test.herokuapp.com')
       click_link('New Line of credit')
