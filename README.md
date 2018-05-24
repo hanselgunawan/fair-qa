@@ -36,8 +36,8 @@ Test cases can be found in `/test_capybara/spec/requests/line_of_credits_spec.rb
 [![Fair QA Automation Video](https://imgur.com/HnkISr1.png)](https://www.youtube.com/watch?v=xaDi5JMRfCI)
 
 ## Automation Report
-![](https://imgur.com/P4OCXLe.png)
-![](https://imgur.com/y2JO3hu.png)
+![](https://imgur.com/vU8SL5T.png)
+![](https://imgur.com/Im90nlO.png)
 
 ## Bugs and Improvements
 Here's the [Trello](https://trello.com/) link for the bugs and improvements: 
