@@ -72,7 +72,7 @@ RSpec.describe "Credit Line", type: :request do
   end
 
   describe "user clicks show button on edit line of credit page" do
-    it "redirects to home page", :js => true do
+    it "redirects to line of credit information page", :js => true do
       visit('http://credit-test.herokuapp.com/line_of_credits/106/edit')
       find('body > a:nth-child(3)').click
       expect(page).to have_current_path('http://credit-test.herokuapp.com/line_of_credits/106', url: true)
