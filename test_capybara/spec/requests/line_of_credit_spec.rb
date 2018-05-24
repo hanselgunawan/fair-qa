@@ -204,8 +204,6 @@ RSpec.describe "Credit Line", type: :request do
 
   describe "the user draws on day 1, pay back on day 15, and do another draw on day 25" do
     it "displays the right Total Payoff at 30 Days", :js => true do
-      # expect(Rails.logger).to receive(:info).with("Expected Total Payoff value: " +@payoff_at_30_days_comma+ " - Actual Total Payoff value: "+find('p:nth-child(7)').text[/\$([^\\]*)/][1..-1])
-      # expect(Rails.logger).to receive(:info).with("HAHAHAHA")
       visit('http://credit-test.herokuapp.com/line_of_credits/566')
       if page.has_css?('tbody tr:nth-child(1) .delete-transaction')
         @counter = 0
