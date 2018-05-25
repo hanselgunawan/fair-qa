@@ -36,7 +36,7 @@ Test cases can be found in [/test_capybara/spec/requests/line_of_credits_spec.rb
 [![Fair QA Automation Video](https://imgur.com/HnkISr1.png)](https://www.youtube.com/watch?v=xaDi5JMRfCI)
 
 ## Automation Report
-![](https://imgur.com/vU8SL5T.png)
+![](https://imgur.com/vU8SL5T.pn)
 ![](https://imgur.com/Im90nlO.png)
 
 ## Bugs and Improvements
